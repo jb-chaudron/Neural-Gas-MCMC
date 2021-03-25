@@ -4,6 +4,7 @@ Sampling a compressed space for human like cognitive performances simulation
 # Table of content
 * [General Informations](#gen-inf)
 * [About the project](#about)
+* [References](#ref)
 
 ## General Informations
 A free project, made for the final exam of "Informatique and Programmation" (Computer Science and Programmation), took in the first semester of 2020
